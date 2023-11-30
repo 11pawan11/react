@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+header{
+    background-color: teal;
+}
+
+.logo{
+    font-size: 80px;
+    font-family: Anton;
+    text-align: center;
+    color:white;
+}
+
+header input{
+    font-size: 20px;
+}

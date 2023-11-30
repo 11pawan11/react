@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+
+header{
+    background-color: black;
+    text-align: center;
+}
+
+.logo{
+    font-size: 40px;
+    font-family: Anton;
+    text-align: center;
+    color:Red;
+}
+
+header input{
+    font-size: 20px;
+}
